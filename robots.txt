@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iephafohw.getrobot.net/sitemap.xml
